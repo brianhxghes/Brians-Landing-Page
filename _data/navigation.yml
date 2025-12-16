@@ -8,23 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: 
-    url:
-
-  - title: 
-    url: 
-
   - title: "CV"
     url: /files/BH_resume_2025.docx.pdf
     
   - title: "Portfolio"
     url: /_portfolio/lab05.qmd
-        
-  - title: 
-    url: 
-    
-  - title: 
-    url: 
-    
-  - title: 
-    url: 
