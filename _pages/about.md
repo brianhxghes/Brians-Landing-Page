@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
 My name is Brian Hughes, I am a senior at UMBC graduating in spring majoring in environmental science.
 
 In addition to my major I am obtaining the GIScience certificate and the entrepreneurship minor.
