@@ -12,4 +12,4 @@ main:
     url: /files/BH_resume_2025.docx.pdf
     
   - title: "Portfolio"
-    url: /_portfolio/lab05.qmd
+    url: /_portfolio/lab05.md
