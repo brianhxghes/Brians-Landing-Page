@@ -18,7 +18,7 @@ main:
     url: /files/BH_resume_2025.docx.pdf
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /_portfolio/lab05.qmd
         
   - title: 
     url: 
